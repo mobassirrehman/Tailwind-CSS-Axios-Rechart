@@ -1,0 +1,65 @@
+[
+  {
+    "id": "starter-001",
+    "name": "Starter Package",
+    "price": "$299/month",
+    "ideal_for": "Small businesses and startups just beginning their SEO journey",
+    "features": [
+      "Up to 10 target keywords",
+      "Monthly keyword ranking reports",
+      "Basic on-page SEO optimization (5 pages)",
+      "Google My Business optimization",
+      "Monthly performance report",
+      "Basic competitor analysis",
+      "Meta tags and descriptions optimization",
+      "XML sitemap creation and submission",
+      "Google Analytics setup",
+      "Email support"
+    ]
+  },
+  {
+    "id": "professional-002",
+    "name": "Professional Package",
+    "price": "$799/month",
+    "popular":true,
+    "ideal_for": "Growing businesses ready to scale their online presence",
+    "features": [
+      "Up to 30 target keywords",
+      "Bi-weekly keyword ranking reports",
+      "Comprehensive on-page SEO (15 pages)",
+      "Technical SEO audit (quarterly)",
+      "Content optimization (4 blog posts/month)",
+      "Local SEO optimization",
+      "Link building (10 quality backlinks/month)",
+      "Competitor analysis and tracking",
+      "Google Search Console management",
+      "Conversion rate optimization recommendations",
+      "Monthly strategy consultation call",
+      "Priority email and phone support"
+    ]
+  },
+  {
+    "id": "enterprise-003",
+    "name": "Enterprise Package",
+    "price": "$1,999/month",
+    "ideal_for": "Established businesses and e-commerce sites seeking aggressive growth",
+    "features": [
+      "Unlimited target keywords",
+      "Weekly keyword ranking reports",
+      "Advanced on-page SEO (unlimited pages)",
+      "Monthly technical SEO audits",
+      "Content creation and optimization (8 blog posts/month)",
+      "National and local SEO strategies",
+      "Aggressive link building (25+ quality backlinks/month)",
+      "Advanced competitor intelligence",
+      "E-commerce SEO optimization",
+      "Schema markup implementation",
+      "Site speed optimization",
+      "Penalty recovery assistance",
+      "Custom landing page optimization",
+      "Dedicated account manager",
+      "Bi-weekly strategy calls",
+      "24/7 priority support"
+    ]
+  }
+]
